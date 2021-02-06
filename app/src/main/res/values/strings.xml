@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Papuvege</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="contact">Skomtaktuj siem</string>
+    <string name="itemDescriptionPlaceholder"><![CDATA[Kultowy Pad Tahi, również na wynos!
+Wewnątrz: makaron ryżowy z woka z dodatkiem sosu z tamaryndowca, boczniaków, tofu i szczypioru.
+Podajemy z kolendrą, orzeszkami i limonką.]]></string>
+    <string name="itemTitlePlaceholder">Pad Thai</string>
+    <string name="categoryNamePlaceholder">Polecane</string>
+    <string name="order">Zamów</string>
+    <string name="menu_menu">Menu</string>
+    <string name="menu_about">O nas</string>
+    <string name="menu_gallery">Galeria</string>
+    <string name="menu_delivery">Dostawa</string>
+    <string name="about_text">Umamitu pojawiło się na mapie kulinarnej Łodzi w 2019 roku. Była to pierwsza wegańska, azjatycka restauracja w tym mieście. Jej matką jest Laura, specjalistka od przetwarzania smaków z dań mięsnych w dania stricte roślinne. Teraz Umamitu podbija stolicę, a wkrótce całą Polskę!</string>
+    <string name="about_callout">Zamów online lub zadzwoń. Dowozimy!</string>
+    <string name="papuvege">Papuvege</string>
+    <string name="delivery">Dostarczamy w promieniu 4km</string>
+    <string name="first_name_last_name">Imię i nazwisko*</string>
+    <string name="email">E-mail*</string>
+    <string name="mobile">Telefon</string>
+    <string name="topic">Temat*</string>
+    <string name="message">Wiadomość*</string>
+    <string name="send_message">Wyślij wiadomość</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    >
+
+    <data>
+        <variable
+            name="category"
+            type="pl.nluk.papuvege.models.MenuCategory" />
+    </data>
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:textAlignment="center"
+        android:textSize="25dp"
+        android:textColor="@color/black"
+        android:textAllCaps="true"
+        tools:text="@string/categoryNamePlaceholder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:letterSpacing="0.1"
+        android:text="@{category.name}"/>
+</layout>
