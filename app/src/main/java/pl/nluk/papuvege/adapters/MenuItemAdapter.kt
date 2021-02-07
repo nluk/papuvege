@@ -1,4 +1,4 @@
-package pl.nluk.papuvege
+package pl.nluk.papuvege.adapters
 
 import android.util.Log
 import android.view.LayoutInflater
@@ -6,6 +6,7 @@ import android.view.ViewGroup
 import androidx.databinding.DataBindingUtil
 import androidx.databinding.ViewDataBinding
 import androidx.recyclerview.widget.RecyclerView
+import pl.nluk.papuvege.R
 import pl.nluk.papuvege.databinding.ItemCategoryBinding
 import pl.nluk.papuvege.databinding.ItemMenuBinding
 import pl.nluk.papuvege.models.MenuDisplay

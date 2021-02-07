@@ -30,4 +30,6 @@ Podajemy z kolendrą, orzeszkami i limonką.]]></string>
     <string name="topic">Temat*</string>
     <string name="message">Wiadomość*</string>
     <string name="send_message">Wyślij wiadomość</string>
+    <string name="form_sent">Wysłano formularz</string>
+    <string name="fill_required_fields">Wypełnij wymagane pola</string>
 </resources>
